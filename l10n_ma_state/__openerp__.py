@@ -21,7 +21,7 @@
 ##############################################################################
 
 {
-    'name': 'Morocco States (Régions)',
+    'name': 'Morocco States (Régions) up_by_hind',
     'summary': 'Populate Database with the 12 Moroccan States (Régions)',
     'version': '8.0.0.1.0',
     'category': 'Morocco Localization',
